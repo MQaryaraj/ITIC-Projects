@@ -1,4 +1,4 @@
-# ITIC-Projects
+# ITIC-Projects (Task 3)
 
 The aim of this task is to 
 - Read the paper and understand it.
