@@ -1,10 +1,15 @@
-# ITIC-Projects (Task 3)
+# ITIC-Projects (Task 5)
+In this task, we are building a svm linear model and XGboost model in order to classify forum_id. These models are built for multiclass classification.
+We will compare the models performance and will implement Bayseian Hyperparameter optimization on XGboost model.
 
-The aim of this task is to 
-- Read the paper and understand it.
-- Draw figures 1-6 on the notebook using seaborn (replicate all the visualization performed in the paper)
+Below is the forum_id code and respective class:
 
-Below is the paper and dataset link
+2: General (Miscellaneous) Discussion
+3: Assignments
+4: Study Groups / Meetups
+7: Course Feedback / Suggestions
+8: Lectures
+9: Platform Issues
+10: Others
 
-https://github.com/elleros/courseraforums
-http://www2.cs.uh.edu/~gnawali/papers/coursera-iri2014.pdf
+
